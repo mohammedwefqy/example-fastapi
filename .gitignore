@@ -1,6 +1,6 @@
 __pycach__
 env/
-
+.env
 static/
 tailwindcss/
 templates/
