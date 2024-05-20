@@ -1,20 +1,78 @@
-﻿annotated-types==0.6.0
-bcrypt==4.1.3
-DateTime==5.5
+alembic @ file:///D:/coding/pyapi/env/Lib/site-packages/alembic-1.13.1-py3-none-any.whl#sha256=2edcc97bed0bd3272611ce3a98d98279e9c209e7186e43e75bbb1b2bdfdbcc43
+annotated-types==0.6.0
+anyio==4.3.0
+asgiref==3.8.1
+bcrypt @ file:///D:/coding/pyapi/env/Lib/site-packages/bcrypt-4.1.3-cp39-abi3-win_amd64.whl#sha256=2505b54afb074627111b5a8dc9b6ae69d0f01fea65c2fcaea403448c503d3991
+certifi==2024.2.2
+cffi==1.16.0
+click==8.1.7
+colorama==0.4.6
+contourpy==1.2.1
+cryptography==42.0.5
+cycler==0.12.1
+distlib==0.3.8
+Django==5.0.4
 dnspython==2.6.1
+ecdsa==0.19.0
 email_validator==2.1.1
+fastapi @ file:///D:/coding/pyapi/env/Lib/site-packages/fastapi-0.111.0-py3-none-any.whl#sha256=97ecbf994be0bcbdadedf88c3150252bed7b2087075ac99735403b1b76cc8fc0
+fastapi-cli==0.0.3
+filelock==3.13.4
+fonttools==4.51.0
 greenlet==3.0.3
+h11==0.14.0
+httpcore==1.0.5
+httptools==0.6.1
+httpx==0.27.0
 idna==3.7
-jose==1.0.0
-passlib==1.7.4
+itsdangerous==2.2.0
+Jinja2==3.1.3
+kiwisolver==1.4.5
+Mako==1.3.5
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+matplotlip==0.2
+mdurl==0.1.2
+mysql==0.0.3
+mysqlclient==2.2.4
+numpy==1.26.4
+orjson==3.10.2
+packaging==24.0
+pandas==2.2.1
+passlib @ file:///D:/coding/pyapi/env/Lib/site-packages/passlib-1.7.4-py2.py3-none-any.whl#sha256=aa6bca462b8d8bda89c70b382f0c298a20b5560af6cbfa2dce410c0a2fb669f1
+pillow==10.3.0
+pipenv==2023.12.1
+platformdirs==4.2.0
+psycopg2 @ file:///C:/Users/said/AppData/Local/Programs/Python/Python312/Scripts/psycopg2-2.9.9-cp312-cp312-win_amd64.whl#sha256=a7653d00b732afb6fc597e29c50ad28087dcb4fbfb28e86092277a559ae4e693
+pyasn1==0.6.0
+pycparser==2.22
 pydantic==2.7.1
+pydantic-extra-types==2.7.0
 pydantic-settings==2.2.1
 pydantic_core==2.18.2
+Pygments==2.18.0
+PyMySQL==1.1.0
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
+python-jose @ file:///D:/coding/pyapi/env/Lib/site-packages/python_jose-3.3.0-py2.py3-none-any.whl#sha256=9b1376b023f8b298536eedd47ae1089bcdb848f1535ab30555cd92002d78923a
+python-multipart==0.0.9
 pytz==2024.1
-setuptools==69.5.1
-SQLAlchemy==2.0.30
-typing==3.7.4.3
+PyYAML==6.0.1
+rich==13.7.1
+rsa==4.9
+setuptools==69.2.0
+shellingham==1.5.4
+six==1.16.0
+sniffio==1.3.1
+SQLAlchemy @ file:///D:/coding/pyapi/env/Lib/site-packages/SQLAlchemy-2.0.30-cp312-cp312-win_amd64.whl#sha256=b6c7ec2b1f4969fc19b65b7059ed00497e25f54069407a8701091beb69e591a5
+sqlparse==0.4.4
+starlette==0.37.2
+typer==0.12.3
 typing_extensions==4.11.0
 tzdata==2024.1
-zope.interface==6.4
+ujson==5.9.0
+uvicorn==0.29.0
+virtualenv==20.25.1
+watchfiles==0.21.0
+websockets==12.0
